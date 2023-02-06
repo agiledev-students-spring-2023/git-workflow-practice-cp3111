@@ -9,3 +9,7 @@ Author: Kevin Park (cp3111@nyu.edu)
 ---
 
 **Comment by Harrison Douglass:** What is crazy to me is the fact that Google was so fragile at the very beginning! It also just goes to show that networking is everything in this industry. Sometimes who you know will get you a job more than what you know!
+
+---
+
+**Comment by [Manny Soto Ruiz](https://github.com/MannySotoRuiz):** The article is interesting because it provides a glimpse into the early days of Google, which was once a small startup but has since become one of the largest and most influential technology companies in the world. It is cool to see their history and when its core search engine stopped working and its future was at risk. It details Jeff Dean and Sanjay Ghemawat were able to save the company by identifying and fixing a hardware issue that was causing the problem. Their work highlights the importance of technical expertise and problem-solving skills in the development and success of technology companies.

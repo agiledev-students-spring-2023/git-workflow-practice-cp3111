@@ -8,3 +8,4 @@ Author: Kevin Park (cp3111@nyu.edu)
 
 ---
 
+**Comment by Harrison Douglass:** What is crazy to me is the fact that Google was so fragile at the very beginning! It also just goes to show that networking is everything in this industry. Sometimes who you know will get you a job more than what you know!

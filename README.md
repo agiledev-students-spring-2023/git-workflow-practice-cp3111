@@ -13,3 +13,5 @@ Author: Kevin Park (cp3111@nyu.edu)
 ---
 
 **Comment by [Manny Soto Ruiz](https://github.com/MannySotoRuiz):** The article is interesting because it provides a glimpse into the early days of Google, which was once a small startup but has since become one of the largest and most influential technology companies in the world. It is cool to see their history and when its core search engine stopped working and its future was at risk. It details Jeff Dean and Sanjay Ghemawat were able to save the company by identifying and fixing a hardware issue that was causing the problem. Their work highlights the importance of technical expertise and problem-solving skills in the development and success of technology companies.
+
+**Comment by [Amaan Khwaja](https://github.com/Amaanmkhwaja):** What i find interesting about this article is that a powerhouse like Google was going through struggles that a typical start up go through back in the days. something that has become this large was saved by a ragtag group of engineers after it was started by a couple of university students doing an experiment.
